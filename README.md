@@ -45,6 +45,8 @@ I have been using a set of techniques to 'rip' sprites and animations from the c
 
 **All v0.8 learnsets:** https://bit.ly/3vOxMyb
 
+Note: Moves like thief will not give you item(s) from pokemon you battle.
+
 **Evo methods and stone locations:** https://bit.ly/3PWcVAu
 
 **Controls:**
